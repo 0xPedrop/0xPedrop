@@ -10,7 +10,7 @@
 - 🌱 Graduando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
 - 🏴‍☠️ Bug Hunter em plataformas como Hackerone, Bugcrowd e Intigriti
 - 🌍 Falo **Português** nativamente 
-- 💬 Pergunte-me sobre **Desenvolvimento Backend com Java, Python e Go**, **Docker e Conteinerização de Aplicações**, **Cibersegurança**, **BugBounty**, **Boas Práticas de Código**
+- 💬 Pergunte-me sobre **Desenvolvimento Backend com Java e Frontend utilizando Angular e React**, **Docker e Conteinerização de Aplicações**, **Cibersegurança**, **BugBounty**, **Boas Práticas de Código**
 
 ---
 
