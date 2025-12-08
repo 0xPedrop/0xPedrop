@@ -1,68 +1,54 @@
-<!-- Cabeçalho com uma animação de onda -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+# Hi there, I'm Pedro Paulo! 👋
 
-<!-- Mensagem de boas-vindas com efeito de digitação -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+Paulo+🏴‍☠️;Sou+Desenvolvedor,+Bug+Hunter+e+Estudante+🏴‍☠️;Bem-vindo+ao+meu+perfil!+🏴‍☠️)](https://git.io/typing-svg)
+### 👨‍💻 Software Developer | 🐞 Bug Hunter & Pentester
 
----
-
-## 👨‍💻 Sobre mim
-- 🌱 Graduando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
-- 🏴‍☠️ Bug Hunter em plataformas como Hackerone, Bugcrowd e Intigriti
-- 🌍 Falo **Português** nativamente 
-- 💬 Pergunte-me sobre **Desenvolvimento Backend com Java e Frontend utilizando Angular e React**, **Docker e Conteinerização de Aplicações**, **Cibersegurança**, **BugBounty**, **Boas Práticas de Código**
+I am a Systems Analysis and Development student at **IFPB** with a passion for building secure, scalable software. My background bridges the gap between **Software Engineering** and **Cybersecurity** — I know how to break systems, which makes me better at building them.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-
-<p align="center">  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>  
-  <img src="https://img.shields.io/badge/HackerOne-Platform-211F1F?logo=hackerone&logoColor=white&style=for-the-badge" alt="HackerOne Badge">
-  <img src="https://img.shields.io/badge/VirtualBox-6.1-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" alt="VirtualBox Badge">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+### 🏆 Key Achievement
+> **First Brazilian** to be inducted into the **University of Nebraska Security Hall of Fame** for identifying and reporting critical vulnerabilities.
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🚀 What I'm Building
+Currently developing **[Pwnned](LINK_DO_SEU_REPOSITORIO_PWNNED_AQUI)**: An educational platform for cybersecurity training.
+* **Architecture:** Microservices with Java/Spring Boot & Next.js.
+* **Infrastructure:** Orchestrated with Kubernetes & Docker.
+* **Next Step:** Integrating **Generative AI** to create dynamic CTF scenarios.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Backend & Core:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Infra & DevOps:**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Security & Tools:**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🎯 Current Focus
+* Exploring the intersection of **AI and Security** (LLM Security, Prompt Injection defense).
+* Deepening knowledge in **Cloud Native** architectures.
+* Helping companies secure their assets through Bug Bounties.
+
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xPedrop&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPedrop&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas"/>
+  <i>"I build to learn, and I break to secure."</i>
 </div>
-
----
-
-## 🏆 Troféus GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xPedrop&theme=darkhub" alt="Troféus do GitHub"/>
-</p>
-
----
-
-## 📫 Entre em contato comigo:
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/0xpedrop" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:contato.pedropd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{0xPedrop}/count.svg" /></p> 
-<br>
-</div>
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
