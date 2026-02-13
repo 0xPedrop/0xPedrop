@@ -12,7 +12,7 @@ I am a Systems Analysis and Development student at **IFPB** with a passion for b
 ---
 
 ### 🚀 What I'm Building
-Currently developing **[Pwnned](LINK_DO_SEU_REPOSITORIO_PWNNED_AQUI)**: An educational platform for cybersecurity training.
+Currently developing **[Pwnned]**: An educational platform for cybersecurity training.
 * **Architecture:** Microservices with Java/Spring Boot & Next.js.
 * **Infrastructure:** Orchestrated with Kubernetes & Docker.
 * **Next Step:** Integrating **Generative AI** to create dynamic CTF scenarios.
