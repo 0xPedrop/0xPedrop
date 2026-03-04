@@ -43,7 +43,6 @@ Currently developing **[Pwnned]**: An educational platform for cybersecurity tra
 ---
 
 ### 🎯 Current Focus
-* Exploring the intersection of **AI and Security** (LLM Security, Prompt Injection defense).
 * Deepening knowledge in **Cloud Native** architectures.
 * Helping companies secure their assets through Bug Bounties.
 
